@@ -40,6 +40,7 @@ the insecure requests have already been performed and the security of the page i
 This is why browsers are increasingly blocking mixed content.
 If you have mixed content on your site,
 then fixing it will ensure the content continues to load as browsers become more strict.
+This [follow-up article](/fixing-mixed-content/) demonstrates techniques and tools for fixing this type of issues.
 
 ## The two types of mixed content
 
